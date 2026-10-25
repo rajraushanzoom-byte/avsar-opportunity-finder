@@ -47,7 +47,9 @@ Round 1 is an idea submission. This repo holds the plan and a clickable prototyp
 
 ## Team
 
-Team Black Moon: add names and roles here.
+- Raj: Backend and TinyFish Integration
+- Kapish: Frontend and Design
+- Ankit: Presenter, AI and Data
 
 ## Disclaimer
 
